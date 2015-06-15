@@ -114,8 +114,8 @@ Uniformity=50
 
 [White Balance]
 Setting=Camera
-Temperature=5593
-Green=0.91200000000000003
+Temperature=5484
+Green=0.91000000000000003
 Equal=1
 
 [Color appearance]
@@ -214,7 +214,7 @@ VerticalFlip=false
 AutoFill=true
 
 [Rotation]
-Degree=1.99
+Degree=0
 
 [Distortion]
 Amount=0
@@ -324,7 +324,7 @@ Autosat=true
 OpacityCurve=1;0;0.29999999999999999;0.34999999999999998;0;0.25;0.80000000000000004;0.34999999999999998;0.34999999999999998;0.69999999999999996;0.80000000000000004;0.34999999999999998;0.34999999999999998;1;0.29999999999999999;0;0;
 ColorCurve=1;0.050000000000000003;0.62;0.25;0.25;0.58499999999999996;0.11;0.25;0.25;
 SatProtectionThreshold=0
-SaturatedOpacity=0
+SaturatedOpacity=1
 Strength=50
 HighlightsColorSaturation=60;80;
 ShadowsColorSaturation=80;208;
